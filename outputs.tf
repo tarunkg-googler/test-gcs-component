@@ -1,0 +1,1 @@
+# Minimal diagnostic outputs.tf

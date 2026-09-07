@@ -1,0 +1,6 @@
+name: secure-cloud-storage-bucket
+display_name: Secure Cloud Storage Bucket
+version: 1.0.2
+description: Diagnostic test with no resources.
+category: Storage
+icon: storage
